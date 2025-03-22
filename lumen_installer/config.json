@@ -1,0 +1,23 @@
+{
+  "name": "Lumen Installer",
+  "version": "2.2.0",
+  "slug": "lumen_installer",
+  "description": "Installiert Lumen Voice Assistant mit Web UI, YAML Setup und Sprachwahl.",
+  "startup": "application",
+  "boot": "manual",
+  "arch": [
+    "aarch64",
+    "armv7",
+    "amd64"
+  ],
+  "host_network": false,
+  "ingress": true,
+  "panel_icon": "mdi:assistant",
+  "panel_title": "Lumen Setup",
+  "map": [
+    "config:rw"
+  ],
+  "options": {},
+  "schema": {},
+  "init": false
+}
