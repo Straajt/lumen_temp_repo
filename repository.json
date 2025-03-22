@@ -1,8 +1,0 @@
-{
-  "name": "Lumen Installer Test Repo",
-  "url": "http://temp.local/lumen_temp_host",
-  "maintainer": "Lumen",
-  "addons": [
-    "lumen_installer"
-  ]
-}
